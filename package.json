@@ -1,0 +1,12 @@
+{
+  "name": "touch-me",
+  "private": true,
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build"
+  },
+  "devDependencies": {
+    "turbo": "latest"
+  },
+  "packageManager": "pnpm@10.28.2"
+}
